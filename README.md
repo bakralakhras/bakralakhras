@@ -16,7 +16,7 @@ https://www.linkedin.com/in/bakr-alakhras/
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bakrferas&theme=monokai&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bakralakhras&theme=monokai&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=bakralakhras&icon=0&color=4)](https://visitcount.itsvg.in)
