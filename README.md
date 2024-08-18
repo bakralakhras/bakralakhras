@@ -1,5 +1,5 @@
 # ⚡ Hi, I'm Bakr:
-<br>👨‍💻 Cloud/Software Engineer sharing my jouney and learnings in tech </br><br>👨‍🎓 Studying [Software Engineering] at the University of Bahcesehir, Turkey.</br><br>💭 Currently Learning about Terraform and CI/CD pipelines.</br><br>💭 Currently studying for the SAA-C03 [Aws Solutions Architect].</br>
+<br>👨‍💻 Cloud/Software Engineer sharing my jouney and learnings in tech </br><br>👨‍🎓 Studying [Software Engineering] at the University of Bahcesehir, Turkey.</br><br>💭 Currently Learning about Kubernetes.</br><br>💭 Currently studying for the AZ-104 [Microsoft Certified: Azure Administrator Associate].</br>
 
 https://www.linkedin.com/in/bakr-alakhras/
 ## 🌐 Socials:
