@@ -5,7 +5,7 @@
 
 <br>- [AZ-104: Microsoft Certified Azure Administrator Associate](https://learn.microsoft.com/en-us/certifications/azure-administrator/) </br>
 
-<br>💭 Currently Learning about Kubernetes,AI, and Machine Learning.</br>
+<br>💭 Currently Learning about Kubernetes,AI, and Machine Learning and Expanding into AWS.</br>
 
 https://www.linkedin.com/in/bakr-alakhras/
 ## 🌐 Socials:
