@@ -1,4 +1,4 @@
-# ⚡ Hi, I'm Bakr:
+#  Hi, I'm [Bakr](https://d2pr1hs1r9sp2e.cloudfront.net/) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">:
 <br>👨‍💻 Cloud/Software Engineer sharing my jouney and learnings in tech </br><br>👨‍🎓 Studying [Software Engineering] at the University of Bahcesehir, Turkey.</br>
 <br>💡 Certifications:</br>
 <br>- [AZ-900: Microsoft Certified Azure Fundamentals](https://learn.microsoft.com/en-us/certifications/azure-fundamentals/) </br>
