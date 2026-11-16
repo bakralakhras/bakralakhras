@@ -38,9 +38,3 @@ A FastAPI incident service with SQLAlchemy, Alembic migrations, a Pytest suite, 
 - MinIO Certified Administrator
 - [Microsoft Certified: Azure Fundamentals (AZ-900)](https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/)
 
-## Off the clock
-
-I run a homebrew D&D campaign set in a dark fantasy world I built from the ground up: its own cosmology, its own gods, a full campaign book. Running it on paper got messy, so I built [War Room](https://github.com/bakralakhras/war-room), a command center for dungeon masters. Platform engineer by day, DM by night, still a platform engineer about it.
-
-Also: lifting, League of Legends, and more worldbuilding notes than any sane person needs.
-
