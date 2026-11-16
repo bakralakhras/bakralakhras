@@ -1,3 +1,5 @@
+<img align="right" src="koi/koi.gif" width="256" alt="Baker's koi, drawn nightly from his GitHub activity" />
+
 # Hi, I'm Baker
 
 > I build the platform under the data. If it's air-gapped, highly available and slightly cursed, I'm probably the one on site.
