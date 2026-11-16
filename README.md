@@ -1,5 +1,7 @@
 # Hi, I'm Baker
 
+> I build the platform under the data. If it's air-gapped, highly available and slightly cursed, I'm probably the one on site.
+
 Platform engineer at Datahub Analytics. I build production data platforms for government, critical infrastructure and telecom clients in Saudi Arabia, mostly on site and mostly air-gapped: Kubernetes and OpenShift, Cloudera, GCP, highly available databases, and the identity, security and CI/CD around them.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bakr-alakhras/)
@@ -33,3 +35,10 @@ A FastAPI incident service with SQLAlchemy, Alembic migrations, a Pytest suite, 
 - MinIO Accredited Field Architect
 - MinIO Certified Administrator
 - [Microsoft Certified: Azure Fundamentals (AZ-900)](https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/)
+
+## Off the clock
+
+I run a homebrew D&D campaign set in a dark fantasy world I built from the ground up: its own cosmology, its own gods, a full campaign book. Running it on paper got messy, so I built [War Room](https://github.com/bakralakhras/war-room), a command center for dungeon masters. Platform engineer by day, DM by night, still a platform engineer about it.
+
+Also: lifting, League of Legends, and more worldbuilding notes than any sane person needs.
+
