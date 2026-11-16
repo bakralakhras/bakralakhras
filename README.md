@@ -2,9 +2,7 @@
 
 # Hi, I'm Baker
 
-> I build the platform under the data. If it's air-gapped, highly available and slightly cursed, I'm probably the one on site.
-
-Platform engineer at Datahub Analytics. I build production data platforms for government, critical infrastructure and telecom clients in Saudi Arabia, mostly on site and mostly air-gapped: Kubernetes and OpenShift, Cloudera, GCP, highly available databases, and the identity, security and CI/CD around them.
+Cloud and platform engineer at Datahub Analytics. I design and build production infrastructure for government, critical infrastructure and telecom clients in Saudi Arabia: GCP cloud environments from networking and IAM to data residency, Kubernetes and OpenShift platforms, Cloudera data platforms, highly available databases, and the identity, security and CI/CD around them. Often on site, often air-gapped.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bakr-alakhras/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?logo=githubpages&logoColor=white)](https://bakralakhras.github.io/portfolio)
@@ -26,9 +24,9 @@ A FastAPI incident service with SQLAlchemy, Alembic migrations, a Pytest suite, 
 
 ## What I work with
 
+- **Cloud and automation:** GCP (Shared VPC, Cloud VPN, IAM, BigQuery), Azure (AZ-104), Entra ID, Ansible, Terraform, Jenkins, GitLab CI, Python, Bash
 - **Platforms:** Kubernetes, OpenShift, Nutanix NKP, Helm, Argo CD, Flux
 - **Data:** Cloudera CDP, Spark, Kafka, NiFi, Airflow, Starburst/Trino, Iceberg, MinIO, Informatica
-- **Cloud and automation:** GCP, Azure, Ansible, Terraform, Jenkins, GitLab CI, Python, Bash
 - **Reliability and security:** PostgreSQL HA (Patroni, etcd), HAProxy, Keepalived, Prometheus, Thanos, Grafana, Kerberos, FreeIPA, Ranger, Vault
 
 ## Certifications
